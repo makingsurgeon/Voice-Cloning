@@ -1,0 +1,6 @@
+pandas ~= 1.4
+scikit-learn ~= 0.24
+tensorflow
+numpy
+torch ~= 2.2
+tortoise 
